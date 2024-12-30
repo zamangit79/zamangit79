@@ -7,8 +7,8 @@
             I primarily immerse myself in the realm of JavaScript-based technology, where my expertise thrives, and occasionally venturing into the world of Python-based technology.
         </p>
         <p>
-            <img src="https://komarev.com/ghpvc/?username=fatematzuhora&color=brightgreen&label=Profile+Views&style=flat" alt="Profile Views" />
-            <img src="https://img.shields.io/github/followers/fatematzuhora?label=Followers&style=social" alt="Followers" />
+            <img src="https://komarev.com/ghpvc/?username=zamangit79&color=brightgreen&label=Profile+Views&style=flat" alt="Profile Views" />
+            <img src="https://img.shields.io/github/followers/zamangit79?label=Followers&style=social" alt="Followers" />
         </p>
     </span>
 </div>
