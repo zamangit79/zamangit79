@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="./assets/mangiffy.gif" alt="fatematzuhora" width="250" />
+    <img align="right" src="./assets/mangiffy.gif" alt="fatematzuhora" width="350" />
     <span>
         <h2><img src="./assets/hi.gif" alt="hi.gif" width="26" /> Hi, Nice to have you here!</h2>
         <p>
